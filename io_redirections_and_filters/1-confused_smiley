@@ -1,2 +1,2 @@
 #!/bin/bash
-echo-sd ./emoji -l "(Ôo)'
+./emoji -l "(Ôo)'
