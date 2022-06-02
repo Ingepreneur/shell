@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#Script that displays Best School 10 times using until command
+counter=1
+until [ $counter -gt 10 ]
+do
+echo Best school
+((counter++))
+done
